@@ -9,37 +9,37 @@ Web Stack - Front-end
 
 # Description:bulb:
 
-Advanced HTML/CSS
+. Advanced HTML/CSS
 
-Developer Tools
+. Developer Tools
 
-SCSS
+. SCSS
 
-Flexbox
+. Flexbox
 
-Responsive Design
+. Responsive Design
 
-Accesibility
+. Accesibility
 
-Working with Designers
+. Working with Designers
 
-Design Implementation
+. Design Implementation
 
-Bootstrap
+. Bootstrap
 
-Advanced Javascript
+. Advanced Javascript
 
-Advanced JQuery
+. Advanced JQuery
 
-Cookies & Local Storage
+. Cookies & Local Storage
 
-ES6
+. ES6
 
-TypeScript
+. TypeScript
 
-Webpack
+. Webpack
 
-Building Portfolio Applications
+. Building Portfolio Applications
 
 # Technologies & Tools:computer:
 
@@ -57,8 +57,11 @@ Building Portfolio Applications
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/cbd4bc16-497a-4474-bd35-023b280f52b0)
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/0dfa4376-1592-40be-be55-ee8b348ad71c)
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/87bbb9c4-5d92-4c4c-813c-b655b9b142f3)
-
-
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/6cc647f2-2717-4b62-82b6-12584fbe1215)
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/19fa0a99-8587-44f6-b7d0-db3bc77da60d)
 
 # AUTHOR
-Ijeje Hephzibah Owoma(@hephzibahij) - 68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731372e7376673f267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465
+Ijeje Hephzibah Owoma(@hephzibahij) - ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/acb6419b-0023-43c7-bc40-6a1f5f9cbdce)
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/90573714-1c32-4085-8f54-8ba7b843ad00)
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/f29db5f5-fac3-4ef5-91f3-ef229d8be9ea)
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/7c7296bb-bff7-4518-965b-854f051c1fd3)
