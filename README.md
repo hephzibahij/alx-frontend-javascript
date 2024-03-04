@@ -1,1 +1,35 @@
 # alx-frontend-javascript
+
+# Web Stack Specialization - Front-end
+
+68747470733a2f2f7777772e616c786166726963612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30312f6865616465722d6c6f676f2e706e67
+
+
+Web Stack - Front-end
+
+# Description:bulb:
+
+Advanced HTML/CSS
+Developer Tools
+SCSS
+Flexbox
+Responsive Design
+Accesibility
+Working with Designers
+Design Implementation
+Bootstrap
+Advanced Javascript
+Advanced JQuery
+Cookies & Local Storage
+ES6
+TypeScript
+Webpack
+Building Portfolio Applications
+
+# Technologies & Tools:computer:
+
+68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545322538392541312d4a534f4e2d3030303030303f6c6f676f3d4a534f4e267374796c653d666c61742d737175617265266c6162656c436f6c6f723d323832383238
+
+
+# AUTHOR
+Ijeje Hephzibah Owoma(@hephzibahij) - 68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731372e7376673f267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465
