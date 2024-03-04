@@ -18,7 +18,7 @@ Javascript ES6
 
 # . String templating in ES6
 
-$ . Object creation and their properties in ES6
+# . Object creation and their properties in ES6
 
 # . Iterators and for-of loops
 
@@ -70,19 +70,19 @@ root@AZ-IHEPHZIBAH:~$ sudo apt install nodejs -y
 
 # Check version
 
-root@AZ-IHEPHZIBAH:~$ nodejs -v
+# root@AZ-IHEPHZIBAH:~$ nodejs -v
 v12.22.1
 
-root@AZ-IHEPHZIBAH:~$ npm -v
+# root@AZ-IHEPHZIBAH:~$ npm -v
 6.14.12
 
 # Install Jest, Babel, and ESLint
 
-root@AZ-IHEPHZIBAH:~$ npm install --save-dev jest
+# root@AZ-IHEPHZIBAH:~$ npm install --save-dev jest
 
-root@AZ-IHEPHZIBAH:~$ npm install --save-dev babel-jest @babel/core @babel/preset-env
+# root@AZ-IHEPHZIBAH:~$ npm install --save-dev babel-jest @babel/core @babel/preset-env
 
-root@AZ-IHEPHZIBAH:~$ npm install --save-dev eslint
+# root@AZ-IHEPHZIBAH:~$ npm install --save-dev eslint
 
 # .eslintrc.js
 
@@ -122,4 +122,3 @@ Ijeje Hephzibah Owoma (@hephzibahij) - ![image](https://github.com/hephzibahij/a
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/99d5ab0e-9338-4188-b00c-819a835f01db)
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/a39aa5e8-167f-4020-b263-c9e5d78aa41f)
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/7cac5ee2-43fc-4f3a-bd0c-a3952f8de1bb)
-
