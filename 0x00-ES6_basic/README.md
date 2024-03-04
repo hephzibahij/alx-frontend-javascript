@@ -4,23 +4,23 @@
 
 Javascript ES6
 
-. What ES6 is
+# . What ES6 is
 
-. New features introduced in ES6
+# . New features introduced in ES6
 
-. The difference between a constant and a variable
+# . The difference between a constant and a variable
 
-. Block-scoped variables
+# . Block-scoped variables
 
-. Arrow functions and function parameters default to them
+# . Arrow functions and function parameters default to them
 
-. Rest and spread function parameters
+# . Rest and spread function parameters
 
-. String templating in ES6
+# . String templating in ES6
 
-. Object creation and their properties in ES6
+$ . Object creation and their properties in ES6
 
-. Iterators and for-of loops
+# . Iterators and for-of loops
 
 # Technologies & Tools:computer:
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/ba63086e-3407-4cac-ad8f-5c3aef7e45a6)
@@ -40,25 +40,25 @@ Javascript ES6
 
 Read or watch:
 
-# ECMAScript 6 - ECMAScript 2015
+# . ECMAScript 6 - ECMAScript 2015
 
-# Statements and declarations
+# . Statements and declarations
 
-# Arrow functions
+# . Arrow functions
 
-# Default parameters
+# . Default parameters
 
-# Rest parameter
+# . Rest parameter
 
-# Javascript ES6 — Iterables and Iterators
+# . Javascript ES6 — Iterables and Iterators
 
-# Requirements:hammer:
+# . Requirements:hammer:
 
-. Ubuntu 18.04 LTS using NodeJS 12.22.x
+# . Ubuntu 18.04 LTS using NodeJS 12.22.x
 
-. Jest Testing Framework
+# . Jest Testing Framework
 
-. ESLint
+# . ESLint
 
 # Install NodeJS 12.22.x 
 
@@ -90,31 +90,31 @@ root@AZ-IHEPHZIBAH:~$ npm install --save-dev eslint
 
 # Files:card_file_box:
 
-0. # Const or let?
+# 0. # Const or let?
     
-1. # Block Scope
+# 1. # Block Scope
  
-2. # Arrow functions
+# 2. # Arrow functions
  
-3. # Parameter defaults
+# 3. # Parameter defaults
  
-4. # Rest parameter syntax for functions
+# 4. # Rest parameter syntax for functions
  
-5. # The wonders of spread syntax
+# 5. # The wonders of spread syntax
  
-6. # Take advantage of template literals
+# 6. # Take advantage of template literals
  
-7. # Object property value shorthand syntax
+# 7. # Object property value shorthand syntax
  
-8. # No need to create empty objects before adding in properties
+# 8. # No need to create empty objects before adding in properties
  
-9. # ES6 method properties
+# 9. # ES6 method properties
  
-10. # For...of Loops
+# 10. # For...of Loops
  
-11. # Iterator
+# 11. # Iterator
  
-12. # Let's create a report object
+# 12. # Let's create a report object
 
 # Author
 
