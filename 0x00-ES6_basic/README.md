@@ -64,13 +64,16 @@ Read or watch:
 # Install NodeJS 12.22.x
 
 root@AZ-IHEPHZIBAH:~$ curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
+
 root@AZ-IHEPHZIBAH:~$ sudo bash nodesource_setup.sh
+
 root@AZ-IHEPHZIBAH:~$ sudo apt install nodejs -y
 
 # Check version
 
 root@AZ-IHEPHZIBAH:~$ nodejs -v
 v12.22.1
+
 root@AZ-IHEPHZIBAH:~$ npm -v
 6.14.12
 
