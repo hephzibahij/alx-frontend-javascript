@@ -2,7 +2,7 @@
 
 # Web Stack Specialization - Front-end
 
-https://camo.githubusercontent.com/07b83c4d3257292fb1e84118c9d359a3a033db921b97c0e7459d183e26148084/68747470733a2f2f7777772e616c786166726963612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30312f6865616465722d6c6f676f2e706e67
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/5db602a6-fd25-4bf9-859e-0bc0829e63c0)
 
 
 Web Stack - Front-end
@@ -10,25 +10,41 @@ Web Stack - Front-end
 # Description:bulb:
 
 Advanced HTML/CSS
+
 Developer Tools
+
 SCSS
+
 Flexbox
+
 Responsive Design
+
 Accesibility
+
 Working with Designers
+
 Design Implementation
+
 Bootstrap
+
 Advanced Javascript
+
 Advanced JQuery
+
 Cookies & Local Storage
+
 ES6
+
 TypeScript
+
 Webpack
+
 Building Portfolio Applications
 
 # Technologies & Tools:computer:
 
-68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545322538392541312d4a534f4e2d3030303030303f6c6f676f3d4a534f4e267374796c653d666c61742d737175617265266c6162656c436f6c6f723d323832383238
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/d8ff927d-d5eb-4b7f-92a4-e69c1d5dd474)
+
 
 
 # AUTHOR
