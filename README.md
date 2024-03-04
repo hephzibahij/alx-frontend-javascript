@@ -1,4 +1,6 @@
 # alx-frontend-javascript
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/4d943cdf-7e1c-4ed9-8667-04b94f88eea8)
+
 
 # Web Stack Specialization - Front-end
 
