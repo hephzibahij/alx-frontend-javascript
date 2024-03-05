@@ -1,5 +1,8 @@
 # 0x01. ES6 Promises
 
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/20bfecbd-a114-40d0-8d52-3e8675072464)
+
+
 # Description:bulb:
 
 One simply does not use async/await without knowing promises!
@@ -33,12 +36,75 @@ One simply does not use async/await without knowing promises!
 # Resources:books:
 Read or watch:
 
- ** Promise
+ # ** Promise
 
-** JavaScript Promise: An introduction
+# ** JavaScript Promise: An introduction
 
-** Await
+# ** Await
 
-** Async
+# ** Async
 
-** Throw / Try
+# ** Throw / Try
+
+# Requirements:hammer:
+
+. Ubuntu 18.04 LTS using NodeJS 12.22.x
+
+. Jest Testing Framework
+
+. ESLint
+
+# Install NodeJS 12.22.x
+
+root@AZ-IHEPHZIBAH:~$ curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
+
+root@AZ-IHEPHZIBAH :~$ sudo bash nodesource_setup.sh
+
+root@AZ-IHEPHZIBAH:~$ sudo apt install nodejs -y
+
+# Check version
+
+root@AZ-IHEPHZIBAH:~$ nodejs -v
+v12.22.1
+
+root@AZ-IHEPHZIBAH:~$ npm -v
+6.14.12
+
+# Install Jest, Babel, and ESLint
+
+root@AZ-IHEPHZIBAH:~$ npm install --save-dev jest
+
+root@AZ-IHEPHZIBAH:~$ npm install --save-dev babel-jest @babel/core @babel/preset-env
+
+root@AZ-IHEPHZIBAH:~$ npm install --save-dev eslint
+
+# Files:card_file_box:
+
+# 0. Keep every promise you make and only make promises you can keep
+
+# 1. Don't make a promise...if you know you can't keep it
+
+# 2. Catch me if you can!
+
+# 3. Handle multiple successful promises
+
+# 4. Simple promise
+
+# 5. Reject the promises
+
+# 6. Handle multiple promises
+
+# 7. Load balancer
+
+# 8. Throw error / try catch
+
+# 9. Throw an error
+
+# 10. Await / Async
+
+# Author
+. Ijeje Hephzibah Owoma (@hephzibahij) - ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/b4e1bba3-0b7c-458c-9267-7d91ac100425)
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/5234c771-32a1-4483-9086-d38bfbd26bae)
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/a124ad31-97f7-4911-8fbb-ccb752b516e8)
+![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/3e3063ba-d5ab-44e7-bef7-c88bc73f2776)
+
