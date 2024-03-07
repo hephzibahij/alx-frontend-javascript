@@ -26,7 +26,6 @@ ES6 Classes for all the things!
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/5c6d12f0-c984-4401-a958-7cb8fcbe9113)
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/5656fa46-42fc-4b28-86a6-acbcbd5860be)
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/d9a0d9e1-4123-42db-bf41-ecc6053fe7fc)
-![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/83605559-3582-4954-b26c-b859ff718ae5)
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/1a4ae580-bc60-46bb-90f4-2323d5721d5e)
 ![image](https://github.com/hephzibahij/alx-frontend-javascript/assets/128981877/2c026e9a-8d3c-4620-95ca-ef907efea584)
 
